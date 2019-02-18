@@ -7,7 +7,6 @@ We all know it's possible to create linear solvers in Excel. However, when using
 ## File Descriptions
 
 * solver.xlsx - contains a dummy problem to be solved
-* dat/ - folder containing any data used by python to solve the linear optimisation
 * solver.ipynb - Python Notebook containing explanation for the implementation of the linear optimiser
 
 ## Project Requirements
