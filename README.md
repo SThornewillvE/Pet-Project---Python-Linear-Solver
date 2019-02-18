@@ -15,3 +15,9 @@ We all know it's possible to create linear solvers in Excel. However, when using
 This project requires the use of the following python packages:
 
 1. N/A
+
+## Citation
+
+These are cited works used to help learn about this topic:
+* [PyData](https://www.youtube.com/watch?v=7yZ5xxdkTb8)
+* [Excel Solver PDF](https://www.youtube.com/watch?v=7yZ5xxdkTb8)
