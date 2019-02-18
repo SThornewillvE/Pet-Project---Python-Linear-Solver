@@ -14,7 +14,8 @@ We all know it's possible to create linear solvers in Excel. However, when using
 
 This project requires the use of the following python packages:
 
-1. N/A
+1. pulp 
+2. numpy
 
 ## Citation
 
