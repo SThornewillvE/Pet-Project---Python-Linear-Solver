@@ -20,4 +20,4 @@ This project requires the use of the following python packages:
 
 These are cited works used to help learn about this topic:
 * [PyData](https://www.youtube.com/watch?v=7yZ5xxdkTb8)
-* [Excel Solver PDF](https://www.youtube.com/watch?v=7yZ5xxdkTb8)
+* [Excel Solver PDF](http://web.mit.edu/15.053/www/Excel_Solver.pdf)
